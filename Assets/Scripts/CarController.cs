@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    public float speed = 20f;
+    public float speed = 40f;
     public float brakeForce = 15f;
     public float turnSpeed = 500f;
     private Rigidbody rb;
